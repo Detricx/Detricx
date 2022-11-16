@@ -8,10 +8,9 @@
 <h4>Conhecimento nas seguintes áreas:</h4>
 
 - Desenvolvimento de aplicativos mobile android e iOs com Flutter
+- Conhecimentos no software Kalipso
 - Desenvolvimento back-end de APIs PHP
-- Conhecimentos dos serviços Microsoft Azure
-- Participação em equipe com metodologia ágil SCRUM
-
+- Bases com conhecimentos intermédios de SQL
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
